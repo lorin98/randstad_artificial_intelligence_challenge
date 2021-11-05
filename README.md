@@ -6,6 +6,8 @@ This national competition consists in a multi-class classification task, where a
 
 The proposed solution exploits the [PyTorch](https://pytorch.org/) framework and, in particular, the [PyTorch Lightning](https://www.pytorchlightning.ai/) library. The model is the italian adaptation of the [BERT](https://arxiv.org/abs/1810.04805) transformer from [HuggingFace](https://huggingface.co/) to extract contextualized information about sentences (i.e., the job offers).
 
+**[EDIT]** The project has been ranked at the 4th place and marked as one of the best performing approaches by registering the highest score on a par with other four candidates (complete results available at this [link](https://www.vgen.it/risultati-randstad-artificial-intelligence-challenge/)).
+
 ## Run the project
 
 We provide a commented Colab/Jupyter [notebook](./Randstad_Artificial_Intelligence_Challenge.ipynb) to run the project. In addition, you are free to execute the associated [script](./run_model.py), which is a copy of the notebook, as follows:
